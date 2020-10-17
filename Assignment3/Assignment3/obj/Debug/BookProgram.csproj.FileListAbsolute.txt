@@ -1,0 +1,11 @@
+I:\Github upload\C#\20200608214732_Assignment3_3\Assignment3\Assignment3\bin\Debug\BookProgram.exe.config
+I:\Github upload\C#\20200608214732_Assignment3_3\Assignment3\Assignment3\bin\Debug\BookProgram.exe
+I:\Github upload\C#\20200608214732_Assignment3_3\Assignment3\Assignment3\bin\Debug\BookProgram.pdb
+I:\Github upload\C#\20200608214732_Assignment3_3\Assignment3\Assignment3\obj\Debug\BookProgram.csprojAssemblyReference.cache
+I:\Github upload\C#\20200608214732_Assignment3_3\Assignment3\Assignment3\obj\Debug\BookProgram.Properties.Resources.resources
+I:\Github upload\C#\20200608214732_Assignment3_3\Assignment3\Assignment3\obj\Debug\BookProgram.Form1.resources
+I:\Github upload\C#\20200608214732_Assignment3_3\Assignment3\Assignment3\obj\Debug\BookProgram.Form2.resources
+I:\Github upload\C#\20200608214732_Assignment3_3\Assignment3\Assignment3\obj\Debug\BookProgram.csproj.GenerateResource.cache
+I:\Github upload\C#\20200608214732_Assignment3_3\Assignment3\Assignment3\obj\Debug\BookProgram.csproj.CoreCompileInputs.cache
+I:\Github upload\C#\20200608214732_Assignment3_3\Assignment3\Assignment3\obj\Debug\BookProgram.exe
+I:\Github upload\C#\20200608214732_Assignment3_3\Assignment3\Assignment3\obj\Debug\BookProgram.pdb
